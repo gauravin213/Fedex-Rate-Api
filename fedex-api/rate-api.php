@@ -23,13 +23,13 @@
 
 	$request['WebAuthenticationDetail'] = array(
 		'UserCredential' => array(
-			'Key' => 'VQX7nDHZbPwi1nLg', 
-			'Password' => 'y9FOBtmfJrSjU0OXoEh8dIbmt', 
+			'Key' => '', 
+			'Password' => '', 
 		)
 	); 
 	$request['ClientDetail'] = array(
-		'AccountNumber' => '578539581',
-		'MeterNumber' => '112537509',
+		'AccountNumber' => '',
+		'MeterNumber' => '',
 	);
 	$request['TransactionDetail'] = array('CustomerTransactionId' => ' *** Rate Request using PHP ***');
 	$request['Version'] = array(
